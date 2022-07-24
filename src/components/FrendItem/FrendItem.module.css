@@ -1,0 +1,33 @@
+.item{
+  display: flex;
+  justify-content: left;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 20px;
+  /* border: 1px solid grey; */
+  box-shadow: 5px 3px 4px 2px gray;
+}
+
+.name{
+  margin-left: 10px;
+}
+
+.status{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: green;
+  align-items: center;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.statusRed{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: red;
+    align-items: center;
+    text-align: center;
+    margin-right: 10px;
+  }

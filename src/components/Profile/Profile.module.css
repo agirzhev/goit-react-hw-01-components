@@ -1,0 +1,40 @@
+.profile{
+  text-align: center;
+}
+
+.name{
+  font-weight: bold;
+}
+
+.tag{
+  color: rgb(177, 177, 177);
+}
+
+.location {
+  color: rgb(177, 177, 177);
+}
+
+.stats{
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  background-color: rgb(242, 242, 242);
+  
+}
+
+.element{
+  width: 33.33%;
+  height: 200px;
+  padding-top: 100px;
+  border: 1px solid lightgray;
+
+}
+
+.label{
+  color: rgb(177, 177, 177);
+}
+
+.quantity{
+  display: block;
+  font-weight: bold;
+}

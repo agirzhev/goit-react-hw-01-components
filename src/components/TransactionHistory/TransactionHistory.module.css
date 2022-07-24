@@ -1,0 +1,12 @@
+.transactionHistory{
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  /* border: 1px solid grey; */
+}
+
+.transactionTh {
+  /* border-color: grey; */
+  border-spacing: 0;
+  background-color: lightblue;
+}
